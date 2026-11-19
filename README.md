@@ -13,6 +13,8 @@ The project is organized around four questions:
 
 ## Data
 - **EIA-923** (monthly plant-level generation): https://www.eia.gov/electricity/data/eia923/
+
   Wind plants are selected using fuel code `WND` and prime mover `WT`.
 - **EIA-860** (plant location and nameplate capacity): https://www.eia.gov/electricity/data/eia860/
-- Raw files are not stored in this repository because of size; download them from the links above and place them in the `data/` folder.
+
+  Raw files are not stored in this repository because of size; download them from the links above and place them in the `data/` folder.
